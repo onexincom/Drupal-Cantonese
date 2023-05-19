@@ -1,5 +1,5 @@
-# Translate Drupal to Hong Kong Cantonese
-将Drupal翻译成香港粤语
+# Translate Drupal to Cantonese
+将Drupal翻译成粤语
 
 # Project
 
