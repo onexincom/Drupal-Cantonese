@@ -1,5 +1,5 @@
 # Translate Drupal Project to Hong Kong Cantonese
-将Drupal项目翻译成香港粤语
+把Drupal項目翻譯成香港粵語
 
 Copyright (c) 2023 by the Hong Kong Cantonese translation team
 
