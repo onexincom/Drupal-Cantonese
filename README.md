@@ -1,6 +1,8 @@
 # Translate Drupal to Cantonese
 将Drupal翻译成粤语
 
+Copyright (c) 2023 by the Hong Kong Cantonese translation team
+
 # Project
 
 `Drupal core`	Not available for download yet.
